@@ -69,4 +69,14 @@ In the journey toward **Viksit Bharat**, millions are "digitally included" but "
    ```bash
    git clone [https://github.com/your-username/piggy-ai.git](https://github.com/your-username/piggy-ai.git)
    cd piggy-ai
+2. **Install Requirements:**
+
+    ```bash
+   pip install streamlit google-generativeai duckduckgo-search plotly deep-translator
+
+3.**Configure API Key:** Replace the GEMINI_API_KEY in the script with your Google AI Studio key.
+
+4.**Run the App:**
+   ```bash
+   streamlit run app.py
 
