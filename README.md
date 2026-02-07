@@ -42,7 +42,7 @@ In the journey toward **Viksit Bharat**, millions are "digitally included" but "
 | :--- | :--- | :--- |
 | **Domain focus** | General Knowledge | **Fintech & Indian Social Good** |
 | **Reliability** | Prone to hallucinations | **Verified RAG:** Linked to live 2026 data |
-| **Interaction** | Text-only | **Multi-lingual + Voice-first** |
+| **Interaction** | Text-only | **Multi-lingual** |
 | **Output** | General advice | **Executable Logic & Health Scoring** |
 
 ---
